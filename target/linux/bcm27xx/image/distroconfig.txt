@@ -12,3 +12,6 @@ dtoverlay=disable-bt
 dtoverlay=disable-bt
 [pi4]
 dtoverlay=disable-bt
+[cm4]
+otg_mode=1
+dtoverlay=disable-bt
