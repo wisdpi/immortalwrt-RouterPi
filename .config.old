@@ -4904,7 +4904,7 @@ CONFIG_PACKAGE_luci-app-nps=y
 CONFIG_PACKAGE_luci-app-ntpc=y
 CONFIG_PACKAGE_luci-app-nut=y
 CONFIG_PACKAGE_luci-app-ocserv=y
-# CONFIG_PACKAGE_luci-app-oled is not set
+CONFIG_PACKAGE_luci-app-oled=y
 # CONFIG_PACKAGE_luci-app-olsr is not set
 # CONFIG_PACKAGE_luci-app-olsr-services is not set
 # CONFIG_PACKAGE_luci-app-olsr-viz is not set
@@ -5500,6 +5500,8 @@ CONFIG_PACKAGE_luci-i18n-ocserv-en=y
 # CONFIG_PACKAGE_luci-i18n-ocserv-vi is not set
 CONFIG_PACKAGE_luci-i18n-ocserv-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-ocserv-zh-tw=y
+CONFIG_PACKAGE_luci-i18n-oled-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-oled-zh-tw=y
 # CONFIG_PACKAGE_luci-i18n-openvpn-ar is not set
 # CONFIG_PACKAGE_luci-i18n-openvpn-bg is not set
 # CONFIG_PACKAGE_luci-i18n-openvpn-bn is not set
