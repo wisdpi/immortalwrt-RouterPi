@@ -21,3 +21,6 @@ dtparam=i2c_arm=on,audio=on
 
 [all]
 # Place your custom settings here.
+# Enable OLED Display
+dtparam=i2c_arm=on
+dtoverlay=i2c-gpio,i2c_gpio_sda=2,i2c_gpio_scl=3,i2c_gpio_delay_ us=2,bus=1
